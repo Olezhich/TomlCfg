@@ -1,11 +1,12 @@
 [project]
 name = "tomlcfg"
 version = "0.1.0"
-description = ""
+description = "Lightweight interface class model with toml configuration"
 authors = [
     {name = "Olezhich"}
 ]
 license = {text = "MIT"}
+keywords = ["config", "configuration", "toml", "merge"]
 readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
